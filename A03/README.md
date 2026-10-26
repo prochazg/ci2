@@ -1,3 +1,4 @@
+```bash
 git clone git@github.com:prochazg/ci2.git
 cd ci2
 mkdir A03
